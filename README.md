@@ -1,7 +1,4 @@
 # Observer-Pattern
-![image](https://github.com/user-attachments/assets/14d612b6-f1e9-4e61-8c9c-60eccc2d0afe)
-
-
 
 Real-time News Subscription Service
 
@@ -34,4 +31,5 @@ Constraints:
 
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+![image](https://github.com/user-attachments/assets/14d612b6-f1e9-4e61-8c9c-60eccc2d0afe)
 
