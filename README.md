@@ -1,5 +1,6 @@
 # Observer-Pattern
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/14d612b6-f1e9-4e61-8c9c-60eccc2d0afe)
+
 
 
 Real-time News Subscription Service
